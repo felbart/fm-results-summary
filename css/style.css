@@ -73,6 +73,7 @@ main {
   border-radius: 2rem;
   height: 32rem;
   overflow: hidden;
+  width: 680px;
 }
 .result {
   display: flex;
