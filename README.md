@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/felbart/fm-results-summary)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://fm-results-summary.netlify.app/)
 
 ## My process
 
